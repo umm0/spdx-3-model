@@ -19,7 +19,7 @@ Informatin on any included special technology (e.g. export control relevant cryp
 
 - includesCrypto
   - type: xsd:boolean
-  - minCount: 1
+  - minCount: 0
   - maxCount: 1
 - cryptoDetail
   - type: xsd:string
@@ -27,9 +27,11 @@ Informatin on any included special technology (e.g. export control relevant cryp
 - externalServerCommunication
   - type: xsd:boolean
   - minCount: 0
+  - maxCount: 1
 - includesArtificialIntelligence
   - type: xsd:boolean
   - minCount: 0
+  - maxCount: 1
 - operationsComment
   - type: ComplexComment
   - minCount: 0
