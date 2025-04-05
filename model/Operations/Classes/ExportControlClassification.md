@@ -28,4 +28,3 @@ Export control classification entry
 - classificationComment
   - type: /Core/comment
   - minCount: 0
-  - maxCount: n

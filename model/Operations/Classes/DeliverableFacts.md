@@ -41,7 +41,6 @@ The deliverable facts are collected and update in all deliverable lifecycle phas
 - distributionMethod
   - type: DistributionMethodType
   - minCount: 1
-  - maxCount: n
 - operatingSystem
   - type: OperatingSystemType
   - minCount: 1

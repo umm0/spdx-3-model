@@ -21,4 +21,4 @@ ObligationsAssessmentRelationship collects obligations derived from licensing or
 - obligation
   - type: xsd:string
   - minCount: 1
-  - maxCount: n
+  
