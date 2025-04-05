@@ -25,3 +25,6 @@ Element to write down questions and respective answers.
   - type: xsd:string
   - minCount: 0
   - maxCount: 1
+- operationsComment
+  - type: ComplexComment
+  - minCount: 0

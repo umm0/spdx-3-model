@@ -25,6 +25,6 @@ Export control classification entry
   - type: xsd:string
   - minCount: 1
   - maxCount: 1
-- classificationComment
-  - type: /Core/comment
+- operationsComment
+  - type: ComplexComment
   - minCount: 0
