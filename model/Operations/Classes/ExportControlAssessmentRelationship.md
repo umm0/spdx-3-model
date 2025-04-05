@@ -36,7 +36,7 @@ Assessment for export control puposes
   - type: ExportControlClassification
   - minCount: 1
 - specialTechnology
-  - type: xsd:string
+  - type: SpecialTechnology
   - minCount: 0
   - maxCount: 1
 - exportControlQandA

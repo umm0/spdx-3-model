@@ -1,17 +1,17 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# specialTechnology
+# cryptoDetail
 
 ## Summary
 
-Country
+Details on included crypto
 
 ## Description
 
-Country
+Details on included crypto
 
 ## Metadata
 
-- name: specialTechnology
+- name: cryptoDetail
 - Nature: DataProperty
-- Range: SpecialTechnology
+- Range: xsd:string
