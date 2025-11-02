@@ -29,7 +29,7 @@ Assement of an Element for export control classification according to the classi
   - type: xsd:string
   - minCount: 1
   - maxCount: 1
-- weight
+- exportControlClassificationWeight
   - type: xsd:positiveInteger
   - maxCount: 1
 - /Core/comment

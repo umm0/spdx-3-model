@@ -1,6 +1,6 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# weight
+# exportControlClassificationWeight
 
 ## Summary
 
@@ -12,6 +12,6 @@ Weight to express relevance in de minimis consideration.
 
 ## Metadata
 
-- name: weight
+- name: exportControlClassificationWeight
 - Nature: ObjectProperty
 - Range: xsd:positiveInteger
